@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tiendg\\Desktop\\learn-flutter\\source\\my_app\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\tiendg\\.gradle\\caches\\transforms-3\\1ab2e98a52a4d47eb9449c8012489a07\\transformed\\core-1.5.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\tiendg\\Desktop\\learn-flutter\\source\\my_app\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\tiendg\\.gradle\\caches\\transforms-3\\1ab2e98a52a4d47eb9449c8012489a07\\transformed\\core-1.5.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\tiendg\\Desktop\\learn-flutter\\source\\my_app\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\tiendg\\.gradle\\caches\\transforms-3\\1ab2e98a52a4d47eb9449c8012489a07\\transformed\\core-1.5.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\tiendg\\Desktop\\learn-flutter\\source\\my_app\\build\\qr_code_scanner\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\tiendg\\.gradle\\caches\\transforms-3\\1ab2e98a52a4d47eb9449c8012489a07\\transformed\\core-1.5.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
